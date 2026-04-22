@@ -445,10 +445,11 @@ trained_models/
 ├── svm_model.pkl
 ├── random_forest_model.pkl
 ├── xgboost_model.pkl
-└── stacking_model.pkl
+└── stacking_model.zip
 ```
 
 These models correspond to the trained classifiers used during the speaker-independent LOSO evaluation experiments.
+The stacking model is provided in compressed format due to file size considerations.
 
 ---
 
