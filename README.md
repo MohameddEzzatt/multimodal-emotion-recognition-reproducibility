@@ -114,7 +114,7 @@ Each audio sample contains:
 The extracted audio features are provided in:
 
 ```text
-features/audio_features.csv
+features/Audio_Features_RAVDESS.csv
 ```
 
 ---
@@ -143,10 +143,10 @@ Each visual sample contains:
 - `video_id`
 - Extracted visual feature vector
 
-The extracted visual features are provided in:
+The visual feature file is provided in compressed format due to file size considerations. The compressed feature archive is available as:
 
 ```text
-features/video_features.csv
+Video_Features_RAVDESS.zip
 ```
 
 ---
@@ -330,7 +330,7 @@ F_{multiplicative}]
 The resulting fused feature representation was subsequently used for speaker-independent classification under the LOSO evaluation protocol and provided in:
 
 ```text
-features/fused_features.csv
+features/Fused_features.csv
 ```
 ---
 
