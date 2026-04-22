@@ -467,3 +467,9 @@ To reproduce the evaluation procedure:
 All preprocessing, fusion, and evaluation procedures were implemented under fixed random seeds (42) to ensure deterministic and reproducible behavior across runs.
 
 ---
+
+# Citation
+
+If you use this repository or reproduce the experiments presented in this work, please cite the associated manuscript.
+
+---
